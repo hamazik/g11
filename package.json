@@ -1,0 +1,22 @@
+{
+  "name": "snapshotvoter",
+  "version": "1.2.4",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sm1ck",
+  "license": "ISC",
+  "dependencies": {
+    "@snapshot-labs/snapshot.js": "^0.4.47",
+    "chalk": "^5.2.0",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "https-proxy-agent": "^7.0.0",
+    "node-fetch": "^3.3.1",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  },
+  "type": "module"
+}
